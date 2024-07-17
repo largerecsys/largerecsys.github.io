@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+img: arnie.jpg
+alt: Arnab Bhadury
+client: Arnab Bhadury
+organization: Google
+link: https://abhadury.com
+
+---

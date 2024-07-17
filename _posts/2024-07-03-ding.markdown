@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+img: ding.jpg
+alt: Ding Tong
+client: Ding Tong
+organization: Netflix
+link: https://www.linkedin.com/in/ding-tong-2812785a/
+---
