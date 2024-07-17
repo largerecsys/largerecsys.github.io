@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 1
+img: liang.jpg
+alt: Liang Liu
+client: Liang Liu
+organization: Google
+link: https://www.linkedin.com/in/liang-liu-9494731b3/
+---
