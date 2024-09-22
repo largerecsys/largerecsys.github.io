@@ -69,8 +69,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-  - scope:
-      path: ""
-      type: "speakers"
-    values:
-      permalink: ""
